@@ -1,0 +1,2 @@
+# ChronoTrack has no runtime dependencies
+# All functionality is built using Python's standard library
