@@ -20,15 +20,17 @@ class FileTracker:
         self.root_dir = Path(root_dir).resolve()
         self.db_path = db_path
         self.ignore_patterns = {
-            '.chrono',
-            '.git',
-            '__pycache__',
-            '.pyc',
-            '.DS_Store',
-            '.vscode',
-            '.idea',
-            'node_modules',
-            '.env'
+            ".chrono",
+            ".git",
+            "__pycache__",
+            "*.pyc",
+            ".DS_Store",
+            "venv",
+            "env",
+            ".venv",
+            ".env",
+            "dist",
+            "build"
         }
     
     def _should_ignore(self, file_path: Path) -> bool:
