@@ -157,7 +157,7 @@ classDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/chronotrack/chronotrack.git
+git clone https://github.com/SaiDhinakar/chronotrack.git
 cd chronotrack
 
 # Install in development mode
@@ -572,7 +572,7 @@ python -m pytest tests/test_chronotrack.py::TestChronoTrack::test_initialization
 
 ```bash
 # Clone and setup
-git clone https://github.com/chronotrack/chronotrack.git
+git clone https://github.com/SaiDhinakar/chronotrack.git
 cd chronotrack
 
 # Install development dependencies
@@ -642,7 +642,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **ChronoTrack** - *Keeping time with your code changes* ⏰
 
-[![GitHub](https://img.shields.io/badge/GitHub-chronotrack-blue?logo=github)](https://github.com/chronotrack/chronotrack)
+[![GitHub](https://img.shields.io/badge/GitHub-chronotrack-blue?logo=github)](https://github.com/SaiDhinakar/chronotrack)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite)](https://sqlite.org)
 
@@ -777,9 +777,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - [PyPI Package](https://pypi.org/project/chronotrack/)
-- [GitHub Repository](https://github.com/chronotrack/chronotrack)
-- [Documentation](https://github.com/chronotrack/chronotrack#readme)
-- [Issue Tracker](https://github.com/chronotrack/chronotrack/issues)
+- [GitHub Repository](https://github.com/SaiDhinakar/chronotrack)
+- [Documentation](https://github.com/SaiDhinakar/chronotrack#readme)
+- [Issue Tracker](https://github.com/SaiDhinakar/chronotrack/issues)
 
 ## 🙏 Acknowledgments
 
